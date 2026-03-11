@@ -49,7 +49,7 @@ yolov8-object-detection
 Clone the repository:
 
 ```
-git clone https://github.com/Christoputhanpurackal/object_detection-yolo
+git clone https://github.com/Christoputhanpurackal/YOLOv8-Object-Detection-using-OpenCV
 cd yolov8-object-detection
 ```
 
